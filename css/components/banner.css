@@ -1,0 +1,32 @@
+.banner {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-image: url('../../images/background.png');
+    object-fit: cover;
+    object-position: bottom;
+    height: 78vh;
+}
+.banner img {
+    object-fit: cover;
+    object-position: center;
+}
+.banner-info {
+    color: white;
+}
+.banner-info p {
+    margin-bottom: 50px;
+    opacity: 0.7;
+    font-size: 20px;
+}
+.banner-info a {
+    background-color: #1EDD88;
+    color: white;
+    padding: 15px 40px;
+    border-radius: 50px;
+}
+.banner-info a:hover {
+    background-color: transparent;
+    color: #1EDD88;
+    border: 1px solid #1EDD88;
+}

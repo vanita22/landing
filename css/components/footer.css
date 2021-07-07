@@ -1,0 +1,17 @@
+.footer {
+    background-color: #2c2b2b;
+    padding: 60px;
+    display: block;
+    text-align: center;
+}
+.rrss a {
+    font-size: 30px;
+    color: #1EDD88;
+    margin-right: 1%;
+}
+.rrss a:hover {
+    opacity: 0.5;
+}
+.footer p {
+    color: #6B6C6C;
+}
